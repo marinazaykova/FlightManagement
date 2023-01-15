@@ -1,0 +1,6 @@
+1,First-Class,Boeing,Boeing 757,168,2.6,900,300000
+France,Mexico,USA,Italy,Germany,Austria,Switzerland,Belgium
+2,Business Class,Airbus,AirbusA330,260,2.9,850,250000
+Turkey,Greece,Hungary,Croatia,Romania,Bulgaria,Netherlands,Albania,Poland
+3,Premium Economy Class,Boeing,B787 Dreamliner,240,3.1,780,250000
+Philippines,Australia,Japan,South_Korea,China,Vietnam,Ethiopia
